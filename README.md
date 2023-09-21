@@ -10,6 +10,12 @@
 
 ###
 
+<br clear="both">
+
+<picture>
+  <img align="right" height="250" src="https://media.giphy.com/media/kE8pYISTAEwCvlPueO/giphy.gif"  />
+</picture>
+
 <h2 align="left">About me:</h2>
 
 ###
