@@ -32,13 +32,13 @@
 
 ###
 
-<h2 align="left">💻Tech stack:</h2>
+<br clear="both">
+
+<img align="right" height="336" src="https://64.media.tumblr.com/db6d7f1e8df0013ac01407dac6074dc4/95b4d24b354169f4-23/s500x750/68e51b92d30ac35f24d3ad422cdeeb470efd4fb5.png"  />
 
 ###
 
-<br clear="both">
-
-<img align="right" height="263" src="https://64.media.tumblr.com/db6d7f1e8df0013ac01407dac6074dc4/95b4d24b354169f4-23/s500x750/68e51b92d30ac35f24d3ad422cdeeb470efd4fb5.png"  />
+<h2 align="left">💻Tech stack:</h2>
 
 ###
 
