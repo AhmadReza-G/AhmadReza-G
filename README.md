@@ -97,19 +97,19 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ArG246/ArG246/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ArG246/ArG246/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/ArG246/ArG246/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://github.com/AhmadReza-G/AhmadReza-G/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArG246&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArG246&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ArG246&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadReza-G&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadReza-G&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=AhmadReza-G&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arg246&label=Profile%20views&color=88d9fb&style=plastic" alt="arg246" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmadReza-G&label=Profile%20views&color=88d9fb&style=plastic" alt="AhmadReza-G" /> </p>
 
 ###
