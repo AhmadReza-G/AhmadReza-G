@@ -82,10 +82,10 @@
   <a href="mailto:ahmadrezagollari@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="42" alt="gmail logo"  />
   </a>
-  <a href="https://t.me/ArG246" target="_blank">
+  <a href="https://t.me/WorkaholicENTJ" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="54" height="42" alt="telegram logo"  />
   </a>
-  <a href="https://www.instagram.com/_arg246" target="_blank">
+  <a href="https://www.instagram.com/_AhmadRezaG" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="42" alt="instagram logo"  />
   </a>
 </div>
