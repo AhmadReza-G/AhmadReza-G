@@ -59,10 +59,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="42" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="42" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="42" alt="postman logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="42" alt="github logo"  />
